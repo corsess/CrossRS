@@ -6,7 +6,7 @@
 
 **A crosshair overlay that uses 1.2 MB of RAM and no CPU.**
 
-![Release](https://img.shields.io/github/v/release/corsess/crossrs?style=flat-square&labelColor=1f1f1f&color=4a4a4a)
+![Release](https://img.shields.io/github/v/release/corsess/CrossRS?style=flat-square&labelColor=1f1f1f&color=4a4a4a)
 ![Price](https://img.shields.io/badge/price-free-2fb866?style=flat-square&labelColor=1f1f1f)
 ![Source](https://img.shields.io/badge/source-closed-4a4a4a?style=flat-square&labelColor=1f1f1f)
 
