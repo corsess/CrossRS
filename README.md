@@ -26,8 +26,6 @@ With its settings window closed, CrossRS is a single process using 1.2 MB of RAM
 
 CrossRS (v. 0.2.0) and Crosshair X (15.5.6.0, September 30 2026) were measured on the same PC: private memory, summed across all of each app's processes, single run. "Others" has a single value. It is not measured: it is the average of the memory figures published by the developers of other crosshair overlays, found by web search (ChrossX: "under 25 MB", YoloX: up to 100 MB, Crosshair V2: up to 200 MB; average 100 MB).
 
-To check it yourself, start CrossRS and run this in PowerShell:
-
 ## Why CrossRS
 
 It draws the crosshair once and then stays idle, so there is no render loop to cost CPU or grow in memory. The overlay is click-through, always on top and never takes focus, and closing the settings leaves the crosshair on screen. It makes no network requests, injects nothing, hooks nothing, and has no accounts or community features. The executable is 5.6 MB, needs no installer, and draws in real pixels at any display scaling.
